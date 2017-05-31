@@ -44,6 +44,7 @@ public final class Hello extends HttpServlet {
         writer.println("</td>");
         writer.println("<td>");
         writer.println("<h1>Sample Application Servlet</h1>");
+        writer.println("<h2>Sample Application Servlet 2 </h2>");
         writer.println("</td>");
         writer.println("</tr>");
         writer.println("</table>");
